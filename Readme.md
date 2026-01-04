@@ -56,6 +56,7 @@ A study that quantifies the footprint of the environmental impact of product fro
 - **Cost-Effectiveness and Scalability**: High yields and low production costs make it a more commercially viable alternative to other plant-based fibers for mass packaging [13].
 - **Thermal and corrosion resistance**: Bamboo composites have better thermal resistance capacity compared to carbon composites and almost same corrosion resistance as that of carbon and glass composites [13].
 - **Light weight, and High strength and elasticity**: With density of 0.6-1.1 $g/cm^3$, tensile strenght of upto 800 $MPa$ and Elastic Modulus upto 40 GPa, Bamboo can be reformed into many different desired shapes, and even transformed into paper easily and effectively [09][10][13].
+- **Biodegradebility**: Under ideal conditions, bamboo can degrade within 70 days [14], where as some bamboo composites can take upto 6 most as well [15].
 
 # Reference
 1. [For list of materials, website](https://noissue.co/blog/environmentally-friendly-packaging-materials/?srsltid=AfmBOopE-1atxgskki5PLwz8dMQaVyJBaXte3p0-mP6hoHm2xSWiLmUA)
@@ -71,4 +72,6 @@ A study that quantifies the footprint of the environmental impact of product fro
 11. [Awarness of consumers](https://www.sciencedirect.com/science/article/pii/S2666784322000298#sec4)
 12. [Introduction point 3](https://www.mdpi.com/2073-4360/14/20/4430)
 13. [Properties of Bamboo](https://pmc.ncbi.nlm.nih.gov/articles/PMC10647463/#sec3-polymers-15-04276)
+14. [Degradation charistics of bamboo lunch box](https://www.researchgate.net/publication/361601580_Degradation_Characteristics_of_Environment-Friendly_Bamboo_Fiber_Lunch_Box_Buried_in_the_Soil#:~:text=The%20results%20showed%20that:%20with,%2C%20H2O%2C%20and%20inorganic%20salts.)
+15. [Biodegradation of Bamboo composites/polymers](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443334450000079#:~:text=This%20not%20only%20reduces%20reliance,decomposed%20materials%2C%20further%20minimizing%20waste.)
 
