@@ -50,6 +50,13 @@ A study that quantifies the footprint of the environmental impact of product fro
 5. ~~Wood Plastic composite~~ Majorly this is a bulding material, but its beens used as packaging material as well.
 6. I think its enough
 
+# Properties of Bamboo
+- **Abundance**: Bamboo forests are not only growing at 3% per year, but they also cover 32 million hectares of land. Moreover, Bamboo's growth rate is about 1 meter per day making it fastest growing tree [13].
+- **Durability**: Among natural reinforcements fibres like flax, cotton, and sisal, bamboo possesses some of the highest mechanical strength and modulus [13].
+- **Cost-Effectiveness and Scalability**: High yields and low production costs make it a more commercially viable alternative to other plant-based fibers for mass packaging [13].
+- **Thermal and corrosion resistance**: Bamboo composites have better thermal resistance capacity compared to carbon composites and almost same corrosion resistance as that of carbon and glass composites [13].
+- **Light weight, and High strength and elasticity**: With density of 0.6-1.1 $g/cm^3$, tensile strenght of upto 800 $MPa$ and Elastic Modulus upto 40 GPa, Bamboo can be reformed into many different desired shapes, and even transformed into paper easily and effectively [09][10][13].
+
 # Reference
 1. [For list of materials, website](https://noissue.co/blog/environmentally-friendly-packaging-materials/?srsltid=AfmBOopE-1atxgskki5PLwz8dMQaVyJBaXte3p0-mP6hoHm2xSWiLmUA)
 2. [For defination of sustainable packaging](https://www.researchgate.net/profile/Helen-Lewis-4/publication/228737738_Sustainable_packaging_how_do_we_define_and_measure_it/links/54a333440cf256bf8bb0e127/Sustainable-packaging-how-do-we-define-and-measure-it.pdf)
@@ -63,4 +70,5 @@ A study that quantifies the footprint of the environmental impact of product fro
 10. [Design idea related to bamboo as packaging material in cosmetics](file:///Users/hetu/Downloads/125967598.pdf)
 11. [Awarness of consumers](https://www.sciencedirect.com/science/article/pii/S2666784322000298#sec4)
 12. [Introduction point 3](https://www.mdpi.com/2073-4360/14/20/4430)
+13. [Properties of Bamboo](https://pmc.ncbi.nlm.nih.gov/articles/PMC10647463/#sec3-polymers-15-04276)
 
