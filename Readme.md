@@ -9,7 +9,7 @@
 - Application: Based on the reseach, make a package for real or hypothetical product
 
 # Brainstorm
-## Introduction
+## Introduction [✅]
 - What is a sustainable packaging material?
 - How it can affect the day-to-day life?
 - Some examples??
@@ -17,11 +17,11 @@
 # Criteria
 - Not sure of any yet.
 
-## List of suatainable material
+## List of suatainable material [✅]
 - List some materials, with minor details related to **AOE**.
 - Then select one material for the assignment
 
-## Material Properties
+## Material Properties [✅]
 Properties to look for are dependent on what kind of producted is used and what's its purpose. However, some of the properties to look for:
   - Thermal strength
   - Inertness
@@ -29,12 +29,12 @@ Properties to look for are dependent on what kind of producted is used and what'
   - Sustainability (IMP)
   - Many more
 
-## Life cycle assessment
+## Life cycle assessment [⏳]
 A study that quantifies the footprint of the environmental impact of product from its raw stage to manufacturing, destribution, usage and desposal.
 
-## Source/origin of material
+## Source/origin of material [⏳]
 
-## Market availability and geographic accessibility
+## Market availability and geographic accessibility [✅]
 
 
 # Introduction
@@ -51,12 +51,15 @@ A study that quantifies the footprint of the environmental impact of product fro
 6. I think its enough
 
 # Properties of Bamboo
-- **Abundance**: Bamboo forests are not only growing at 3% per year, but they also cover 32 million hectares of land. Moreover, Bamboo's growth rate is about 1 meter per day making it fastest growing tree [13].
+- ~~**Abundance**: Bamboo forests are not only growing at 3% per year, but they also cover 32 million hectares of land. Moreover, Bamboo's growth rate is about 1 meter per day making it fastest growing tree [13].~~ Shifted in availablity section
 - **Durability**: Among natural reinforcements fibres like flax, cotton, and sisal, bamboo possesses some of the highest mechanical strength and modulus [13].
 - **Cost-Effectiveness and Scalability**: High yields and low production costs make it a more commercially viable alternative to other plant-based fibers for mass packaging [13].
 - **Thermal and corrosion resistance**: Bamboo composites have better thermal resistance capacity compared to carbon composites and almost same corrosion resistance as that of carbon and glass composites [13].
 - **Light weight, and High strength and elasticity**: With density of 0.6-1.1 $g/cm^3$, tensile strenght of upto 800 $MPa$ and Elastic Modulus upto 40 GPa, Bamboo can be reformed into many different desired shapes, and even transformed into paper easily and effectively [09][10][13].
 - **Biodegradebility**: Under ideal conditions, bamboo can degrade within 70 days [14], where as some bamboo composites can take upto 6 most as well [15].
+
+# Market availability and geographic accessibility
+Bamboo forests are not only growing at 3% per year, but they also cover 32 million hectares of land. Moreover, Bamboo's growth rate is about 1 meter per day making it fastest growing tree [13].
 
 # Reference
 1. [For list of materials, website](https://noissue.co/blog/environmentally-friendly-packaging-materials/?srsltid=AfmBOopE-1atxgskki5PLwz8dMQaVyJBaXte3p0-mP6hoHm2xSWiLmUA)
