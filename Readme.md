@@ -30,7 +30,7 @@ Properties to look for are dependent on what kind of producted is used and what'
   - Many more
 
 ## Life cycle assessment [⏳]
-A study that quantifies the footprint of the environmental impact of product from its raw stage to manufacturing, destribution, usage and desposal.
+A study that quantifies the footprint of the environmental impact of product from its raw stage to manufacturing, destribution, usage and desposal [7].
 
 ## Source/origin of material [⏳]
 
@@ -61,6 +61,18 @@ A study that quantifies the footprint of the environmental impact of product fro
 # Market availability and geographic accessibility
 Bamboo forests are not only growing at 3% per year, but they also cover 32 million hectares of land. Moreover, Bamboo's growth rate is about 1 meter per day making it fastest growing tree [13].
 
+# Life Cycle Assessment (LCA)
+Based on a **LCA** of Bamboo tableware packaging products which includes the whole life cycle of the product from the gathering of raw material to making of the product to it's use, and finally its disposable, the human damage and ecosystem of Bamboo is **2.13** and **1.21** times **less** than that of plastic based tableware. However, the Bamboo's potential value of impact in production and transportation state is **1.13** and **1.29** times **more** than that of plastic tableware, mainly because of less research in developing Bamboo products and relatively high weight of Bamboo fibers than plastic polymers [7].
+
+Furthermore, authors also discussed about 4 different disposable ways they are as follows:
+    1. Current situation: reuse: 11 %, incineration: 44 %, landfill: 45 %.
+    2. Best case: reuse: 30 %, incineration: 69 %, landfill: 1 %.
+    3. Worst case: reuse: 2 %, incineration: 8 %, landfill: 90 %.
+    4. EU 2025 proposal: reuse: 55 %, incineration: 45 %.
+The overall impact of Bamboo is better than the plastic tableware, with EU 2025 proposal being the lowest carbon emitting in both Bamboo and plastic tableware [7].
+
+This study was perfomed on 1,000,500 mL of both tablewares, in which the Bamboo wood was 4 year old collected from Zhongxian, Chongqing Ruizhu Plant Fiber Co., Ltd., China. Lastly, _Life cycle assessment SimaPro (9.0)_ was used to assess the environmental impact of both kind tablewares [7].
+
 # Reference
 1. [For list of materials, website](https://noissue.co/blog/environmentally-friendly-packaging-materials/?srsltid=AfmBOopE-1atxgskki5PLwz8dMQaVyJBaXte3p0-mP6hoHm2xSWiLmUA)
 2. [For defination of sustainable packaging](https://www.researchgate.net/profile/Helen-Lewis-4/publication/228737738_Sustainable_packaging_how_do_we_define_and_measure_it/links/54a333440cf256bf8bb0e127/Sustainable-packaging-how-do-we-define-and-measure-it.pdf)
@@ -68,7 +80,7 @@ Bamboo forests are not only growing at 3% per year, but they also cover 32 milli
 4. [For Bamboo](https://thebamboosource.com/about/)
 5. [For pros and cons of Banboo packaging](https://apackaginggroup.com/blogs/news/pros-and-cons-of-bamboo-packaging#:~:text=Lower%20environmental%20impact:%20Bamboo%20grows,consumers%20who%20prefer%20organic%20products.)
 6. [What is Bamboo packaging?](https://www.betterpackaging.com/pages/bamboo-packaging#:~:text=Bamboo%20packaging%20is%20biodegradable%2C%20recyclable,the%20fight%20against%20global%20warming.)
-7. [Life cycle assessment **LCA** of Bamboo](https://www.sciencedirect.com/science/article/pii/S095965261832599X?via%3Dihub)
+7. [Life cycle assessment **LCA** of Bamboo](https://www.sciencedirect.com/science/article/abs/pii/S0926669023000432)
 8. [Bamboo as food packaging](https://www.sciencedirect.com/science/article/pii/S0926669023000432?ref=pdf_download&fr=RR-2&rr=9b82af6e9bcc9a84)
 9. [Bamboo as a packaging material](https://www.researchgate.net/profile/Shubhang-Bhardwaj/publication/373329751_BAMBOO_AS_A_SOLUTION_FOR_FOOD_PACKAGING/links/64e633340453074fbda952e1/BAMBOO-AS-A-SOLUTION-FOR-FOOD-PACKAGING.pdf)
 10. [Design idea related to bamboo as packaging material in cosmetics](file:///Users/hetu/Downloads/125967598.pdf)
