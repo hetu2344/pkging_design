@@ -29,7 +29,7 @@ Properties to look for are dependent on what kind of producted is used and what'
   - Sustainability (IMP)
   - Many more
 
-## Life cycle assessment [⏳]
+## Life cycle assessment [✅]
 A study that quantifies the footprint of the environmental impact of product from its raw stage to manufacturing, destribution, usage and desposal [7].
 
 ## Source/origin of material [⏳]
@@ -72,6 +72,9 @@ Furthermore, authors also discussed about 4 different disposable ways they are a
 The overall impact of Bamboo is better than the plastic tableware, with EU 2025 proposal being the lowest carbon emitting in both Bamboo and plastic tableware [7].
 
 This study was perfomed on 1,000,500 mL of both tablewares, in which the Bamboo wood was 4 year old collected from Zhongxian, Chongqing Ruizhu Plant Fiber Co., Ltd., China. Lastly, _Life cycle assessment SimaPro (9.0)_ was used to assess the environmental impact of both kind tablewares [7].
+
+# Source/origin of material [⏳]
+- Barbie please do it yourseld. Kind Regards, Het 🙏🏻.
 
 # Reference
 1. [For list of materials, website](https://noissue.co/blog/environmentally-friendly-packaging-materials/?srsltid=AfmBOopE-1atxgskki5PLwz8dMQaVyJBaXte3p0-mP6hoHm2xSWiLmUA)
